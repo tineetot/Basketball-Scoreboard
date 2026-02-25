@@ -1,19 +1,44 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# 🏀 Basketball Scoreboard: Project Scrimba
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+A dynamic, interactive basketball scoreboard built from the ground up. This project was developed as a milestone during **Day 3** of my coding journey, focusing on the fundamentals of JavaScript logic and DOM manipulation.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+---
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## 📖 Project Overview
+While this was a guided project from the **Scrimba Frontend Developer Path**, I challenged myself to build it **from scratch**. 
 
-Happy Coding!
+This project was my first real dive into JavaScript logic. I moved beyond simple styling and learned how to make a webpage "think"—handling user clicks, performing arithmetic, and updating the display in real-time. I even integrated a custom digital timer font to give it that authentic stadium feel.
+
+---
+
+## ✨ Key Features
+* **Custom Digital Aesthetic:** Uses the `Cursed Timer` font and CSS text-shadows to recreate a glowing LED scoreboard.
+* **Real-time Scoring:** Dual-panel system for "Home" and "Guest" teams with independent logic.
+* **Point Increments:** Integrated buttons for +1, +2, and +3 points to simulate real-world basketball rules.
+* **New Game Function:** A reset button that clears both scores and internal variables back to zero instantly.
+* **Vite Powered:** Built using modern tooling for a fast and optimized development experience.
+
+
+
+---
+
+## 🛠️ Tech Stack
+* **HTML5:** Semantic layout for the scoring interface.
+* **CSS3:** Advanced styling including `@font-face` integration, Flexbox for alignment, and glow effects.
+* **JavaScript (Vanilla):** Core logic for state management and DOM updates.
+* **Vite:** Next-generation frontend tooling for the build process.
+
+---
+
+## 📂 File Structure
+- `index.html` - The markup for the scoreboards and interactive buttons.
+- `index.css` - Custom styles including the scoreboard's "dark mode" and typography.
+- `index.js` - The logic powering the scoring functions and game reset.
+- `timer.ttf` - Custom font for the digital number display.
+
+---
+
+## 🚀 How to Run Locally
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/tineetot/basketball-scoreboard.git](https://github.com/tineetot/basketball-scoreboard.git)
