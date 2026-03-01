@@ -1,11 +1,11 @@
-# 🏀 Basketball Scoreboard: Project Scrimba
+# 🏀 Basketball Scoreboard
 
-A dynamic, interactive basketball scoreboard built from the ground up. This project was developed as a milestone during **Day 3** of my coding journey, focusing on the fundamentals of JavaScript logic and DOM manipulation.
+A dynamic, interactive basketball scoreboard built from the ground up. This project was developed from my coding journey, focusing on the fundamentals of JavaScript logic and DOM manipulation.
 
 ---
 
 ## 📖 Project Overview
-While this was a guided project from the **Scrimba Frontend Developer Path**, I challenged myself to build it **from scratch**. 
+While this was a guided project from the **Scrimba Frontend Developer Path**, I challenged myself to build it **"from scratch"**. 
 
 This project was my first real dive into JavaScript logic. I moved beyond simple styling and learned how to make a webpage "think"—handling user clicks, performing arithmetic, and updating the display in real-time. I even integrated a custom digital timer font to give it that authentic stadium feel.
 
