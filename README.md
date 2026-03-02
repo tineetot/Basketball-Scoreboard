@@ -41,4 +41,4 @@ This project was my first real dive into JavaScript logic. I moved beyond simple
 ## 🚀 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/tineetot/basketball-scoreboard.git](https://github.com/tineetot/basketball-scoreboard.git)
+   git clone https://github.com/tineetot/basketball-scoreboard.git
